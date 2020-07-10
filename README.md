@@ -4,7 +4,7 @@
 **aditya-shirwatkar/aditya-shirwatkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am a sophmore undergraduate student in Mechanical Engineering at [Visvesvayariya National Institute of Technology (VNIT), Nagpur](http://vnit.ac.in/), who is an aspiring robotics researcher and wishs to make the world a better place through the advancements in robotics and AI :innocent: .
+I am a sophmore undergraduate student in Mechanical Engineering at [visvesvaraya National Institute of Technology (VNIT), Nagpur](http://vnit.ac.in/), who is an aspiring robotics researcher and wishs to make the world a better place through the advancements in robotics and AI :innocent: .
 
 - 🔭 I’m currently working on Trajectory Optimization (focused on Bipedal Systems) and implementing few Optimal Control algorithms on Underactuated Systems.
 - 🌱 I’m looking forward to researching various ways to integrate the conventional methodologies in Optimal Controls with new advancements in Reinforcement Learning.
