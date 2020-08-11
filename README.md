@@ -15,4 +15,6 @@ I am a junior undergraduate student in Mechanical Engineering at [Visvesvaraya N
 <!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... -->
-![Aditya Shirwatkar's github stats](https://github-readme-stats.vercel.app/api?username=aditya-shirwatkar&show_icons=true&hide_rank=false)
+
+![Aditya Shirwatkar's github stats](https://github-readme-stats.vercel.app/api?username=aditya-shirwatkar&show_icons=true&include_all_commits=true)
+![Aditya Shirwatkar's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-shirwatkar&layout=compact)
