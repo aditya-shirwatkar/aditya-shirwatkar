@@ -1,9 +1,13 @@
-### Hi there 👋
-
 <!--
 **aditya-shirwatkar/aditya-shirwatkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img align="left" src="https://github.com/aditya-shirwatkar/aditya-shirwatkar/blob/master/me.gif"> I'm a junior undergraduate student in Mechanical Engineering at [Visvesvaraya National Institute of Technology (VNIT), Nagpur](http://vnit.ac.in/), who is an aspiring robotics researcher and wishes to make the world a better place through the advancements in robotics and AI :innocent:
+<img align="left" src="https://github.com/aditya-shirwatkar/aditya-shirwatkar/blob/master/me.gif"> 
+
+### Hi there 👋
+
+I'm a junior undergraduate student in Mechanical Engineering at [Visvesvaraya National Institute of Technology (VNIT), Nagpur](http://vnit.ac.in/), who is an aspiring robotics researcher and wishes to make the world a better place through the advancements in robotics and AI :innocent:
+
+<br>
 
 **More About Me**:
 
