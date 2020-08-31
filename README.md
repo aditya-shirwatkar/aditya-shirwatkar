@@ -3,9 +3,12 @@
 <!--
 **aditya-shirwatkar/aditya-shirwatkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<p align="center"><img src="https://github.com/aditya-shirwatkar/aditya-shirwatkar/blob/master/me.gif"></p>
+<img align="left" src="https://github.com/aditya-shirwatkar/aditya-shirwatkar/blob/master/me.gif"> I'm a junior undergraduate student in Mechanical Engineering at [Visvesvaraya National Institute of Technology (VNIT), Nagpur](http://vnit.ac.in/), who is an aspiring robotics researcher and wishes to make the world a better place through the advancements in robotics and AI :innocent:
 
-I'm a junior undergraduate student in Mechanical Engineering at [Visvesvaraya National Institute of Technology (VNIT), Nagpur](http://vnit.ac.in/), who is an aspiring robotics researcher and wishes to make the world a better place through the advancements in robotics and AI :innocent:
+
+<br>
+<br>
+<br>
 
 - 🔭 I’m currently working on [**Trajectory Optimization (focused on Bipedal Systems)**](https://github.com/IvLabs/biped_trajectory_optimization) and implementing few [**Optimal Control algorithms**](https://github.com/aditya-shirwatkar/UnderactuatedRobotics) on Underactuated Systems.
 - 🌱 I’m looking forward to researching various ways to integrate **Optimal Controls** with new advancements in **Reinforcement Learning**.
