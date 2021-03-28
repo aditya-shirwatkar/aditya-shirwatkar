@@ -12,7 +12,7 @@ I'm a junior undergraduate student in the Department of Mechanical Engineering a
 **More About Me**:
 
 - :rocket: My current research interests lie in developing optimal control algorithms for highly dynamic and agile locomotions of legged robots in challenging environments.
-- 🔭 I’m currently working on [Trajectory Optimization (focused on Bipedal Systems)](https://github.com/IvLabs/biped_trajectory_optimization) and implementing few [Optimal Control algorithms](https://github.com/aditya-shirwatkar/UnderactuatedRobotics) on Underactuated Systems
+- 🔭 I’m currently working on developing a full stack reconfigurable robotic system along with controllers for robust navigation of quadrupeds.
 - 🌱 I’m also looking forward to researching various ways to integrate **Optimal Controls** with new advancements in **Reinforcement Learning**
 - 💬 I am happy to share my experiences in robotics and would like to hear about yours too
 - ⚡ Check out some of the projects of our growing community that I'm part of at - [**IvLabs**](https://www.ivlabs.in/) 
