@@ -5,21 +5,17 @@
 
 ### Hi there 👋
 
-I'm a junior undergraduate student in the Department of Mechanical Engineering at [Visvesvaraya National Institute of Technology (VNIT), Nagpur](http://vnit.ac.in/), who is an aspiring robotics researcher and wishes to make the world a better place through the advancements in robotics and AI :innocent:
+I'm a senior undergraduate student in the Department of Mechanical Engineering at [Visvesvaraya National Institute of Technology (VNIT), Nagpur](http://vnit.ac.in/), who is an aspiring robotics researcher and wishes to make the world a better place through the advancements in robotics and AI :innocent:
 
 <br>
 
 **More About Me**:
 
-- :rocket: My current research interests lie in developing optimal control algorithms for highly dynamic and agile locomotions of legged robots in challenging environments.
+- :rocket: My current research interests lie in developing robust control algorithms for dynamic and agile locomotions of robots in challenging environments.
 - 🔭 I’m currently working on developing a full stack reconfigurable robotic system along with controllers for robust navigation of quadrupeds.
-- 🌱 I’m also looking forward to researching various ways to integrate **Optimal Controls** with new advancements in **Reinforcement Learning**
 - 💬 I am happy to share my experiences in robotics and would like to hear about yours too
-- ⚡ Check out some of the projects of our growing community that I'm part of at - [**IvLabs**](https://www.ivlabs.in/) 
-<!-- - 📫 You can contact me on my email - avant.redditor@gmail.com -->
-<!-- - 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ... -->
+- ⚡ Check out some of the projects of our growing community that I'm part of at [**IvLabs**](https://www.ivlabs.in/) 
+- 👯 I'm also involved with a team of legged robot enthusiasts at [**Stoch Lab**](https://stochlab.github.io/)  
 
 **Contact Me**:
 
