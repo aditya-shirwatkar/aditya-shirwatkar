@@ -24,7 +24,7 @@ I'm an aspiring robotics researcher and wishes to make the world a better place 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/aditya-shirwatkar-40a956188)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avant.redditor@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/A_Shirwatkar)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hubble_02)
 
 
 ![Aditya Shirwatkar's github stats](https://github-readme-stats.vercel.app/api?username=aditya-shirwatkar&show_icons=true)
