@@ -13,9 +13,9 @@ I'm an aspiring robotics researcher and wishes to make the world a better place 
 
 
 **More About Me**:
+<!-- - 🔭 I’m currently working on developing a full stack reconfigurable robotic system along with controllers for robust navigation of quadrupeds. -->
 
 - :rocket: My current research interests lie in developing robust control algorithms for dynamic and agile locomotions of robots in challenging environments.
-- 🔭 I’m currently working on developing a full stack reconfigurable robotic system along with controllers for robust navigation of quadrupeds.
 - 💬 I am happy to share my experiences in robotics and would like to hear about yours too
 - ⚡ Check out some of the projects of our growing community that I'm part of at [**IvLabs**](https://www.ivlabs.in/) 
 - 👯 I'm also involved with a team of legged robot enthusiasts at [**Stoch Lab**](https://stochlab.github.io/)  
