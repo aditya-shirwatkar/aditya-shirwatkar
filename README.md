@@ -27,5 +27,5 @@ I'm an aspiring robotics researcher and wishes to make the world a better place 
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hubble_02)
 
 
-![Aditya Shirwatkar's github stats](https://github-readme-stats.vercel.app/api?username=aditya-shirwatkar&show_icons=true)
+![Aditya Shirwatkar's github stats](https://github-readme-stats.vercel.app/api?username=aditya-shirwatkar&show_icons=true&include_all_commits=true)
 ![Aditya Shirwatkar's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-shirwatkar&layout=compact)
